@@ -626,6 +626,4 @@ v2.6.0 保留 v2.4 / v2.5 的核心 KV 数据结构。
 - [Cloudflare Turnstile](https://developers.cloudflare.com/turnstile/)
 - [Cloudflare Cache Purge API](https://developers.cloudflare.com/api/resources/cache/methods/purge/)
 
-## 📄 License
 
-请根据项目发布者的实际授权协议添加许可证。当前 README 不预设项目许可证。
